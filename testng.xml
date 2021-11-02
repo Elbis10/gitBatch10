@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Elbis/IdeaProjects/TestNG">
+        <classes>
+            <class name="com.syntax.class1.TestingClass">
+                <methods>
+                    <include name="testMethod"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
