@@ -6,6 +6,6 @@ public class TestingClass {
 
     @Test
     public void testMethod(){
-        System.out.println("this is my first method");
+        System.out.println("this is my first commit method");
     }
 }
